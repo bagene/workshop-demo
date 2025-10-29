@@ -5,3 +5,7 @@
 - apple
 - grapes
 - orange
+- mango
+- kiwi
+- watermelon
+- strawberry
