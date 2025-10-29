@@ -1,1 +1,5 @@
 Hello this is file2.txt
+
+This file is used for testing purposes.
+
+It contains some sample text.
