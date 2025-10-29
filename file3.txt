@@ -1,0 +1,7 @@
+Hello, this is file3.
+
+This file is created for testing purposes.
+
+It contains additional sample text.
+
+The File3 Team
