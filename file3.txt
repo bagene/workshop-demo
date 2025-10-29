@@ -4,8 +4,4 @@ This file is created for testing purposes.
 
 It contains additional sample text.
 
-Thank you for reading this file!
-
-Best regards,
-
 The File3 Team
